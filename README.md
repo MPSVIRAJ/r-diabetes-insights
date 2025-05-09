@@ -1,7 +1,4 @@
 # Predicting Diabetes: A Data-Driven Statistical Study
-
-![Profile Banner](A_flat_digital_vector_graphic_features_a_round_pro.png)
-
 ## 📊 Project Overview
 
 This repository contains all code, documentation, and analysis for a statistical study investigating key risk factors for diabetes using R. The project utilizes a cleaned dataset of 100,000 individuals and applies logistic regression and chi-square tests to evaluate associations between diabetes and variables such as BMI, age, smoking history, and gender.
