@@ -32,7 +32,7 @@ This repository contains all code, documentation, and analysis for a statistical
 ---
 
 ## 📁 Repository Structure
-'''diabetes-analysis-r/
+```diabetes-analysis-r/
 │
 ├── data/                   # Raw and cleaned dataset files
 ├── scripts/                # R scripts for analysis and modeling
@@ -40,7 +40,7 @@ This repository contains all code, documentation, and analysis for a statistical
 ├── report/                 # Final written report (PDF/DOCX)
 ├── A_flat_digital_vector_graphic.png # Profile image
 ├── README.md               # Project overview and documentation
-└── LICENSE'''
+└── LICENSE```
 ---
 
 ## 💻 Tools & Libraries
