@@ -1,5 +1,3 @@
-# r-diabetes-insights
-Statistical analysis of diabetes dataset using R
 # Predicting Diabetes: A Data-Driven Statistical Study
 
 ![Profile Banner](A_flat_digital_vector_graphic_features_a_round_pro.png)
