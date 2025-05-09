@@ -4,8 +4,6 @@
 This repository contains all code, documentation, and analysis for a statistical study investigating key risk factors for diabetes using R. The project utilizes a cleaned dataset of 100,000 individuals and applies logistic regression and chi-square tests to evaluate associations between diabetes and variables such as BMI, age, smoking history, and gender.
 
 > **Author:** Sameera Viraj Malwaththa Pathirannehelage  
-> **Course:** Statistical Data Analysis for Applied Physics  
-> **Degree:** Master’s in Applied Physics  
 > **Date:** May 2025  
 
 ---
