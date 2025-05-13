@@ -32,9 +32,8 @@ diabetes-analysis-r/
 │
 ├── data/                   # Raw and cleaned dataset files
 ├── scripts/                # R scripts for analysis and modeling
-├── figures/                # Graphs and visualization outputs
+├── graphs/                # Graphs and visualization outputs
 ├── report/                 # Final written report (PDF/DOCX)
-├── A_flat_digital_vector_graphic.png # Profile image
 ├── README.md               # Project overview and documentation
 └── LICENSE
 ```
